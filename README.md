@@ -1,8 +1,7 @@
 # canyon-bunny
 ## Sample game to learn Libgdx
 
-Sample Game by Andreas Oehlke 
-Book: LibGDX Cross-Platform Development Blueprints
+Sample Game by Andreas Oehlke Book: Learning Libgdx Game Development.
 Published by Packt Publishing Ltd.
 [Packtpub](www.packtpub.com)
 
